@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Graphik LC TT';
+    font-style: normal;
+    font-weight: normal;
+    src: url(../assets/fonts/GraphikLCG-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Graphik LC TT';
+    font-style: normal;
+    font-weight: bold;
+    src: url(../assets/fonts/GraphikLCG-Semibold.ttf);
+}
